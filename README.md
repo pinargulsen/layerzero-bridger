@@ -1,4 +1,4 @@
-# layerzero-bridger
+## layerzero-bridger
 
 #### The layerzero-bridger is an app with the command-line interface that provides various functionalities for working with LayerZero bridges. It allows you to generate private keys, withdraw funds from exchanges, and execute bridges multiple times in a random sequence.
 
